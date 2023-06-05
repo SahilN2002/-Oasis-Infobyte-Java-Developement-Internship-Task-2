@@ -1,4 +1,5 @@
 // Java program for the above approach
+
 import java.util.Scanner;
 
 public class main {
